@@ -7,7 +7,3 @@
 (require 'init-meow)
 (require 'init-catppuccin-theme)
 (require 'init-minibuffer)
-(require 'init-lsp-bridge)
-(require 'init-rust)
-(require 'init-racket)
-(require 'init-rime)
